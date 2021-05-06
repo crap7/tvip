@@ -1,0 +1,545 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-----PORTUGAL-----" tvg-logo="http://picon.webhop.net/logo/flag/pt.png" group-title="PT PORTUGAL",-----PORTUGAL-----
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/135944
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/RTP%201%20SD.png" group-title="PT PORTUGAL",PT: RTP 1
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2211
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/RTP%201%20HD.png" group-title="PT PORTUGAL",PT: RTP 1 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/162611
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/RTP%201%20HD.png" group-title="PT PORTUGAL",PT: RTP 1 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205663
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/RTP%202%20SD.png" group-title="PT PORTUGAL",PT: RTP 2
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2212
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/RTP%202%20HD.png" group-title="PT PORTUGAL",PT: RTP 2 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205664
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/RTP%202%20HD.png" group-title="PT PORTUGAL",PT: RTP 2 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/162612
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/SIC%20SD.png" group-title="PT PORTUGAL",PT: SIC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2216
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/SIC%20HD.png" group-title="PT PORTUGAL",PT: SIC HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/169304
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/SIC%20HD.png" group-title="PT PORTUGAL",PT: SIC H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205665
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TVI%20SD.png" group-title="PT PORTUGAL",PT: TVI
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2220
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TVI%20HD.png" group-title="PT PORTUGAL",PT: TVI HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/169303
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TVI%20HD.png" group-title="PT PORTUGAL",PT: TVI H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/209530
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TVI%2024%20SD.png" group-title="PT PORTUGAL",PT: TVI 24
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2221
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24 H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TVI24.png" group-title="PT PORTUGAL",PT: TVI 24 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338931
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICÇAO" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TVI%20FIC%c3%87AO%20SD.png" group-title="PT PORTUGAL",PT: TVI FICÇAO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136631
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TVI%20FIC%c3%87AO.png" group-title="PT PORTUGAL",PT: TVI FICCAO H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338953
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TVI%20REALITY.png" group-title="PT PORTUGAL",PT: TVI REALITY
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136659
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TVI%20REALITY.png" group-title="PT PORTUGAL",PT: TVI REALITY H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338963
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TVI%20REALITY%20MOSAICO.png" group-title="PT PORTUGAL",PT: TVI REALITY MOSAICO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/264147
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTP3.png" group-title="PT PORTUGAL",PT: RTP 3
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136263
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTP3.png" group-title="PT PORTUGAL",PT: RTP 3 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338956
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP AFRICA" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTPAFFRICA.png" group-title="PT PORTUGAL",PT: RTP AFRICA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136684
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP ACORES" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTPACORES.png" group-title="PT PORTUGAL",PT: RTP ACORES
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2213
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTPMADEIRA.png" group-title="PT PORTUGAL",PT: RTP MADEIRA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2215
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RTPMEMORIA.png" group-title="PT PORTUGAL",PT: RTP MEMORIA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2214
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICNOTICIAS.png" group-title="PT PORTUGAL",PT: SIC NOTICIAS
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2219
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICNOTICIAS.png" group-title="PT PORTUGAL",PT: SIC NOTICIAS H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338932
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICRADICAL.png" group-title="PT PORTUGAL",PT: SIC RADICAL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136264
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SIC%20RADICAL%20HD.png" group-title="PT PORTUGAL",PT: SIC RADICAL H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338962
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICCARAS.png" group-title="PT PORTUGAL",PT: SIC CARAS
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136630
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICCARAS.png" group-title="PT PORTUGAL",PT: SIC CARAS H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338959
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICMULHER.png" group-title="PT PORTUGAL",PT: SIC MULHER
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2218
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICMULHER.png" group-title="PT PORTUGAL",PT: SIC MULHER H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338961
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CMTV.png" group-title="PT PORTUGAL",PT: CMTV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2204
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CMTV%20HD.png" group-title="PT PORTUGAL",PT: CMTV H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338928
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zap_viva_ao.png" group-title="PT PORTUGAL",PT: ZAP VIVA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/252147
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA H.265/HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zap_viva_ao.png" group-title="PT PORTUGAL",PT: ZAP VIVA H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/198367
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zap_viva_ao.png" group-title="PT PORTUGAL",PT: ZAP VIVA HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/252146
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV CABO VERDE" tvg-logo="https://seeklogo.com/images/T/tcv-logo-A799C7319A-seeklogo.com.gif" group-title="PT PORTUGAL",PT: TCV CABO VERDE
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/240454
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV MOÇAMBIQUE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="PT PORTUGAL",PT: TV MOÇAMBIQUE
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/240455
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA" tvg-logo="https://i1.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD-scaled.jpg?fit=2560%2C1440&ssl=1" group-title="PT PORTUGAL",PT: CASA E COZINHA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/251728
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: CASA E COZINHA H.265/HEVC" tvg-logo="https://i1.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD-scaled.jpg?fit=2560%2C1440&ssl=1" group-title="PT PORTUGAL",PT: CASA E COZINHA H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/251726
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA HD" tvg-logo="https://i1.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD-scaled.jpg?fit=2560%2C1440&ssl=1" group-title="PT PORTUGAL",PT: CASA E COZINHA HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/251727
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN " tvg-logo="http://picon.webhop.net/logo/PORTUGAL/24KITCHENHD.png" group-title="PT PORTUGAL",PT: 24 KITCHEN 
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/234098
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/24KITCHENHD.png" group-title="PT PORTUGAL",PT: 24 KITCHEN H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2203
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/24KITCHENHD.png" group-title="PT PORTUGAL",PT: 24 KITCHEN HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/234099
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: CANÇAO NOVA" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CANCAONOVA.png" group-title="PT PORTUGAL",PT: CANÇAO NOVA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/165587
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: CANAL Q" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CANALQ.png" group-title="PT PORTUGAL",PT: CANAL Q
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132901
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS REALITY" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CBSREALITY.png" group-title="PT PORTUGAL",PT: CBS REALITY
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132903
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! " tvg-logo="http://picon.webhop.net/logo/PORTUGAL/E!ENTERTAINMENT.png" group-title="PT PORTUGAL",PT: E! 
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132910
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/E!ENTERTAINMENT.png" group-title="PT PORTUGAL",PT: E! H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338958
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="PT PORTUGAL",PT: FASHION TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136676
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX NEWS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXNEWS.png" group-title="PT PORTUGAL",PT: FOX NEWS
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132917
+#EXTINF:-1 tvg-id="globonow.pt" tvg-name="PT: GLOBO NOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/GLOBONOW.png" group-title="PT PORTUGAL",PT: GLOBO NOW
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132897
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO PORTUGAL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/GLOBO.png" group-title="PT PORTUGAL",PT: GLOBO PORTUGAL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2209
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/GLOBO.png" group-title="PT PORTUGAL",PT: GLOBO H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338946
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO INTER HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/GLOBO.png" group-title="PT PORTUGAL",PT: GLOBO INTER HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/246535
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLOOMBERG" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BLOOMBERG.png" group-title="PT PORTUGAL",PT: BLOOMBERG
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136683
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="PT: TV RECORD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RECORDHD.png" group-title="PT PORTUGAL",PT: TV RECORD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2225
+#EXTINF:-1 tvg-id="recordnews.pt" tvg-name="PT: RECORD NEWS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/RECORDNEWS.png" group-title="PT PORTUGAL",PT: RECORD NEWS
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/212611
+#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="PT: LOCALVISAO TV" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/LOCALVISAOTV.png" group-title="PT PORTUGAL",PT: LOCALVISAO TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132888
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: TV  FATIMA" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tv_fatima_pt.png" group-title="PT PORTUGAL",PT: TV  FATIMA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/165588
+#EXTINF:-1 tvg-id="luxe.pt" tvg-name="PT: LUXE TV HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/LUXETV.png" group-title="PT PORTUGAL",PT: LUXE TV HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132892
+#EXTINF:-1 tvg-id="mycuisinehd.pt" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL_SAT_CABO/TPA_INT.png" group-title="PT PORTUGAL",PT: TPA INTERNACIONAL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/256004
+#EXTINF:-1 tvg-id="" tvg-name="PT: MARRADAS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: MARRADAS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319900
+#EXTINF:-1 tvg-id="" tvg-name="PT: STRONG BY ZUMBA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: STRONG BY ZUMBA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319899
+#EXTINF:-1 tvg-id="" tvg-name="PT: TREINE EM CASA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TREINE EM CASA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319898
+#EXTINF:-1 tvg-id="" tvg-name="PT: KARAOKES PT TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: KARAOKES PT TV EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319897
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA STEVEN SEAGAL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA STEVEN SEAGAL EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319896
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA PORTUGUES EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA PORTUGUES EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319895
+#EXTINF:-1 tvg-id="" tvg-name="PT: STALLONE VS SCHWARZENEGGER EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: STALLONE VS SCHWARZENEGGER EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319894
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA ARTES MARCIAIS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA ARTES MARCIAIS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319893
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY + EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: DISNEY + EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319892
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA EM CASA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA EM CASA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319891
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA AÇÃO EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA AÇÃO EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319890
+#EXTINF:-1 tvg-id="" tvg-name="PT: ESPECIAL EM FAMILIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: ESPECIAL EM FAMILIA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319889
+#EXTINF:-1 tvg-id="" tvg-name="PT: REVISTA PORTUGUESA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: REVISTA PORTUGUESA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319888
+#EXTINF:-1 tvg-id="" tvg-name="PT: CULINARIA TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CULINARIA TV EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319887
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA BRASIL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA BRASIL EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319886
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Barbie EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: Canal Barbie EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319885
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAND UP EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: STAND UP EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319884
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA FICÇÃO CIENTIFICA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA FICÇÃO CIENTIFICA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319883
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL SUSPENSE/TERROR EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL SUSPENSE/TERROR EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319882
+#EXTINF:-1 tvg-id="" tvg-name="PT: RALLY MANIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: RALLY MANIA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319881
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOOBA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: BOOBA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319880
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL LUCAS NETO TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL LUCAS NETO TV EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319879
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX KIDS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: FOX KIDS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319878
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA FANTASIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA FANTASIA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319877
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Terra Nossa EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL Terra Nossa EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319876
+#EXTINF:-1 tvg-id="" tvg-name="PT: MARVEL VS DC EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: MARVEL VS DC EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319875
+#EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: NETFLIX EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319874
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV NOVELAS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TV NOVELAS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319873
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL MOTO GP EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL MOTO GP EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319872
+#EXTINF:-1 tvg-id="" tvg-name="PT: WB KIDS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: WB KIDS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319871
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA GUERRA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA GUERRA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319870
+#EXTINF:-1 tvg-id="" tvg-name="PT: THE VOICE EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: THE VOICE EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319869
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOM E OS AMIGOS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOM E OS AMIGOS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319868
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOM HEROES EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOM HEROES EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319867
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA MUSICAL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA MUSICAL EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319866
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOP MIX TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOP MIX TV EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319865
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA COMEDIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA COMEDIA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319864
+#EXTINF:-1 tvg-id="" tvg-name="PT: MIRACULOUS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: MIRACULOUS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319863
+#EXTINF:-1 tvg-id="" tvg-name="PT: APAIXONADOS E SERIES EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: APAIXONADOS E SERIES EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319862
+#EXTINF:-1 tvg-id="" tvg-name="PT: EXTREME SPORTS CHANNEL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: EXTREME SPORTS CHANNEL EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319861
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA INDIANO EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA INDIANO EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319860
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA 2020 EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA 2020 EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319859
+#EXTINF:-1 tvg-id="" tvg-name="PT: FILMES WESTERN EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: FILMES WESTERN EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319858
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOM SAWYER + Dartacan EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOM SAWYER + Dartacan EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319857
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA TOM CRUISE EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA TOM CRUISE EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319856
+#EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX KIDS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: NETFLIX KIDS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319855
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA JACKIE CHAN EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA JACKIE CHAN EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319854
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAFE CONCERTO EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CAFE CONCERTO EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319853
+#EXTINF:-1 tvg-id="" tvg-name="PT: COMBATES MMA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: COMBATES MMA EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319852
+#EXTINF:-1 tvg-id="" tvg-name="PT: JOAO KLEBER SHOW EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: JOAO KLEBER SHOW EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319851
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cinema KIDS PT EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: Cinema KIDS PT EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319850
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOLCLORE-DESGARRADAS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: FOLCLORE-DESGARRADAS EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319849
+#EXTINF:-1 tvg-id="" tvg-name="PT: RIR ATE CAIR EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: RIR ATE CAIR EXCLUSIVO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/319848
+#EXTINF:-1 tvg-id="" tvg-name="----- PT CINEMA/SERIES -----" tvg-logo="http://picon.webhop.net/logo/flag/pt.png" group-title="PT CINEMA",----- PT CINEMA/SERIES -----
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/139976
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvcine-top-pt.png" group-title="PT CINEMA",PT: TVCINE TOP
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/194449
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvcine-top-pt.png" group-title="PT CINEMA",PT: TVCINE TOP HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2234
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE TOP  H.265/HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvcine-top-pt.png" group-title="PT CINEMA",PT: TVCINE TOP  H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/207333
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EDITION" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Edition_HD.png" group-title="PT CINEMA",PT: TVCINE EDITION
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/194450
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Edition_HD.png" group-title="PT CINEMA",PT: TVCINE EDITION HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2235
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EDITION H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Edition_HD.png" group-title="PT CINEMA",PT: TVCINE EDITION H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/207334
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EMOTION" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Emotion_HD.png" group-title="PT CINEMA",PT: TVCINE EMOTION
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/194460
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Emotion_HD.png" group-title="PT CINEMA",PT: TVCINE EMOTION HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2236
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EMOTION H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Emotion_HD.png" group-title="PT CINEMA",PT: TVCINE EMOTION H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/207342
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Action_HD.png" group-title="PT CINEMA",PT: TVCINE ACTION
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/194461
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HD" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Action_HD.png" group-title="PT CINEMA",PT: TVCINE ACTION HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2237
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/portugal/TvCine_Action_HD.png" group-title="PT CINEMA",PT: TVCINE ACTION H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/207343
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIO" tvg-logo="http://picon.webhop.net/logo/portugal/STUDIOS%20HD.png" group-title="PT CINEMA",PT: NOS STUDIO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/202823
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIOS H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/portugal/STUDIOS%20HD.png" group-title="PT CINEMA",PT: NOS STUDIOS H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/198788
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HD" tvg-logo="http://picon.webhop.net/logo/portugal/STUDIOS%20HD.png" group-title="PT CINEMA",PT: NOS STUDIOS HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205662
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/AXN.png" group-title="PT CINEMA",PT: AXN
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136668
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/AXN.png" group-title="PT CINEMA",PT: AXN H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2233
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HD" tvg-logo="http://picon.webhop.net/logo/portugal/AXN%20HD.png" group-title="PT CINEMA",PT: AXN HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205656
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/AXN%20WHITE%20HD.png" group-title="PT CINEMA",PT: AXN WHITE
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/167482
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/AXN%20WHITE%20HD.png" group-title="PT CINEMA",PT: AXN WHITE H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132925
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HD" tvg-logo="http://picon.webhop.net/logo/portugal/AXN%20WHITE%20HD.png" group-title="PT CINEMA",PT: AXN WHITE HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205658
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="PT CINEMA",PT: AXN MOVIES
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/167481
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES H.265/HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="PT CINEMA",PT: AXN MOVIES H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132924
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="PT CINEMA",PT: AXN MOVIES HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205657
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC" tvg-logo="http://picon.webhop.net/logo/portugal/AMC%20HD.png" group-title="PT CINEMA",PT: AMC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132923
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/portugal/AMC%20HD.png" group-title="PT CINEMA",PT: AMC H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/169311
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC HD" tvg-logo="http://picon.webhop.net/logo/portugal/AMC%20HD.png" group-title="PT CINEMA",PT: AMC HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/209534
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="PT CINEMA",PT: HOLLYWOOD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132921
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PT CINEMA",PT: HOLLYWOOD H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/196607
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="http://picon.webhop.net/logo/portugal/HOLLYWOOD%20HD.png" group-title="PT CINEMA",PT: HOLLYWOOD HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/221898
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png" group-title="PT CINEMA",PT: SYFY
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/169312
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SYFY%20HD.png" group-title="PT CINEMA",PT: SYFY H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338952
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="http://picon.webhop.net/logo/Italy/FOX.PNG" group-title="PT CINEMA",PT: FOX
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/198366
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXHD.png" group-title="PT CINEMA",PT: FOX H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2206
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HD" tvg-logo="http://picon.webhop.net/logo/portugal/FOX%20HD.png" group-title="PT CINEMA",PT: FOX HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205661
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: FOX COMEDY" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCOMEDYHD.png" group-title="PT CINEMA",PT: FOX COMEDY
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2208
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="PT CINEMA",PT: FOX CRIME
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132913
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME H.265/HEVC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578588_fox-crime-lg.png" group-title="PT CINEMA",PT: FOX CRIME H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132914
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HD" tvg-logo="http://picon.webhop.net/logo/portugal/FOX%20CRIME%20HD.png" group-title="PT CINEMA",PT: FOX CRIME HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/209536
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox-Life.png/1200px-Fox-Life.png" group-title="PT CINEMA",PT: FOX LIFE
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/167480
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIMEHD.png" group-title="PT CINEMA",PT: FOX LIFE H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132915
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HD" tvg-logo="http://picon.webhop.net/logo/portugal/FOX%20LIFE%20HD.png" group-title="PT CINEMA",PT: FOX LIFE HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/233866
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES" tvg-logo="https://i.imgur.com/8XUMaO2.jpg" group-title="PT CINEMA",PT: FOX MOVIES
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2207
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOX%20MOVIES%20HD.png" group-title="PT CINEMA",PT: FOX MOVIES H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338948
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CINEMUNDO.png" group-title="PT CINEMA",PT: CINEMUNDO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132905
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CINEMUNDO.png" group-title="PT CINEMA",PT: CINEMUNDO H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338929
+#EXTINF:-1 tvg-id="sundancetv.pt" tvg-name="PT: SUNDANCE HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SUNDANCE.png" group-title="PT CINEMA",PT: SUNDANCE HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132891
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="PT: KURIAKOS CINE" tvg-logo="https://kuriakos.com/wp-content/uploads/2017/07/cineKuriakos-2.jpg" group-title="PT CINEMA",PT: KURIAKOS CINE
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/178147
+#EXTINF:-1 tvg-id="" tvg-name="----- PT DESPORTO -----" tvg-logo="http://picon.webhop.net/logo/flag/pt.png" group-title="PT DESPORTO",----- PT DESPORTO -----
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/139977
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="" group-title="PT DESPORTO",PT: CANAL 11
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/203036
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: CANAL 11 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/203037
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HD" tvg-logo="" group-title="PT DESPORTO",PT: CANAL 11 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205660
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV +
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/161969
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV +H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338957
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 1
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/285911
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="###https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="PT DESPORTO",PT: SPORT TV 1 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/302761
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 1 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/1455
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 2
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/161957
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 2 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/1456
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 2 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205667
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 3
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/161966
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 3 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/1457
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 3 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205668
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 4
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/161967
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 4 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/1458
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 4 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/209531
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 5
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/161968
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 5 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/178145
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 5 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/1459
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV NBA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/178146
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV NBA H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/183821
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV NBA HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/252145
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="" group-title="PT DESPORTO",PT: BTV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/161970
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: BTV H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/271763
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="" group-title="PT DESPORTO",PT: BTV HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/205659
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC INTERNACIONAL" tvg-logo="" group-title="PT DESPORTO",PT: PFC INTERNACIONAL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/277512
+#EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV" tvg-logo="" group-title="PT DESPORTO",PT: REDBULL TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/178144
+#EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV 1080" tvg-logo="" group-title="PT DESPORTO",PT: REDBULL TV 1080
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/178148
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 SD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/164977
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/285912
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/158069
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 SD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/164978
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/272329
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/158902
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 SD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/164979
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/272330
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/159765
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 4 SD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/164980
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORT 4 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/159766
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 5 SD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/164981
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVENSPORT 5 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVENSPORT 5 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/159767
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 6 SD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/164982
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVENSPORT 6 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVENSPORT 6 HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/159768
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 1
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136682
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 1 H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2231
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD " tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 1 HD 
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/252144
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 2
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132911
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PT DESPORTO",PT: A BOLA TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136661
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/ABOLATV.png" group-title="PT DESPORTO",PT: A BOLA TV H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338945
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV HD" tvg-logo="" group-title="PT DESPORTO",PT: NBA TV HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132918
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/PORTOCANAL.png" group-title="PT PORTUGAL",PT: PORTO CANAL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2210
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PT DESPORTO",PT: REAL MADRID TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136663
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA E PESCA" tvg-logo="" group-title="PT DESPORTO",PT: CAÇA E PESCA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132898
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇAVISION" tvg-logo="" group-title="PT DESPORTO",PT: CAÇAVISION
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132899
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="PT DESPORTO",PT: SPORTING TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2232
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="" group-title="PT DESPORTO",PT: TOROS TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136662
+#EXTINF:-1 tvg-id="" tvg-name="----- PT MUSICA -----" tvg-logo="http://picon.webhop.net/logo/flag/pt.png" group-title="PT MUSICA",----- PT MUSICA -----
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/139980
+#EXTINF:-1 tvg-id="mcsultra.pt" tvg-name="PT: MCM POP" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/MCMPOP.png" group-title="PT MUSICA",PT: MCM POP
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132890
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT: MTV PORTUGAL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/MTVPORTUGAL.png" group-title="PT MUSICA",PT: MTV PORTUGAL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136673
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT: MEZZO" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/MEZZO.png" group-title="PT MUSICA",PT: MEZZO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136675
+#EXTINF:-1 tvg-id="" tvg-name="PT: ICONCERTS HD" tvg-logo="https://tvnovini.bg/upload/articles/iconcert+hd.jpg" group-title="PT MUSICA",PT: ICONCERTS HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132884
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="PT: TRACE URBAN" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TRACEURBAN.png" group-title="PT MUSICA",PT: TRACE URBAN
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136672
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="PT: AFRO MUSIC CHANNEL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/AFROMUSIC.png" group-title="PT MUSICA",PT: AFRO MUSIC CHANNEL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136674
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT: VH1" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/VH1.png" group-title="PT MUSICA",PT: VH1
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136670
+#EXTINF:-1 tvg-id="" tvg-name="----- PT CRIANCAS -----" tvg-logo="http://picon.webhop.net/logo/flag/pt.png" group-title="PT KIDS",----- PT CRIANCAS -----
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/139978
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: CANAL PANDA" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CANALPANDA.png" group-title="PT KIDS",PT: CANAL PANDA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2222
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: BIGGS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BIGGS.png" group-title="PT KIDS",PT: BIGGS
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/180946
+#EXTINF:-1 tvg-id="" tvg-name="PT: LOLLY KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lolly-kids.png" group-title="PT KIDS",PT: LOLLY KIDS
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/333092
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: NICKELODEON" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/NICKELODEON.png" group-title="PT KIDS",PT: NICKELODEON
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136669
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: NICK JR." tvg-logo="https://www.kindpng.com/picc/m/434-4349862_nick-jr-logo-png-transparent-png.png" group-title="PT KIDS",PT: NICK JR.
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/181786
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SICK.png" group-title="PT KIDS",PT: SIC K
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2217
+#EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="PT: BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="PT KIDS",PT: BABY TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136667
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: CARTOON NETWORK" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CARTOONNETWORK.png" group-title="PT KIDS",PT: CARTOON NETWORK
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132902
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="PT KIDS",PT: DISNEY CHANNEL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2223
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/DISNEYJR.png" group-title="PT KIDS",PT: DISNEY JUNIOR
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2224
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="http://picon.webhop.net/logo/FRANCE/BOOMERANGHD.png" group-title="PT KIDS",PT: BOOMERANG
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/308019
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/JIMJAM.png" group-title="PT KIDS",PT: JIM JAM
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132885
+#EXTINF:-1 tvg-id="" tvg-name="----- PT DOCUMENTARIOS -----" tvg-logo="" group-title="PT DOCUMENTARIOS",----- PT DOCUMENTARIOS -----
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/139979
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEO" tvg-logo="http://picon.webhop.net/logo/FRANCE/NGCHD.png" group-title="PT DOCUMENTARIOS",PT: NATIONAL GEO
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/233871
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEO H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/FRANCE/NGCHD.png" group-title="PT DOCUMENTARIOS",PT: NATIONAL GEO H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132920
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEO HD" tvg-logo="http://picon.webhop.net/logo/FRANCE/NGCHD.png" group-title="PT DOCUMENTARIOS",PT: NATIONAL GEO HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/233872
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: NAT GEO WILD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2228
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT WILD H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/NGCWILD.png" group-title="PT DOCUMENTARIOS",PT: NAT WILD H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338955
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TRAVEL CHANNEL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/330929
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TRAVEL CHANNEL HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/330928
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL H.265/HEVC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TRAVEL CHANNEL H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/330927
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: MOTORVISION" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: MOTORVISION
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132896
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="PT: FOOD NETWORK" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: FOOD NETWORK
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/181785
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ID INVESTIGATION DISCOVERY
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136266
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION H.265/HEVC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ID INVESTIGATION H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/169310
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ID INVESTIGATION DISCOVERY HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136671
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: DISCOVERY CHANNEL
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2226
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL H.265/HEVC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: DISCOVERY CHANNEL H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/272332
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL HD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: DISCOVERY CHANNEL HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/272331
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: CRIME + INVESTIGATION TV" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: CRIME + INVESTIGATION TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136629
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: HISTORIA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/2227
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ODISSEIA
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136678
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/ODISSEIA.png" group-title="PT DOCUMENTARIOS",PT: ODISSEIA H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338950
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: BLAZE" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: BLAZE
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/158901
+#EXTINF:-1 tvg-id="blazehd.pt" tvg-name="PT: BLAZE H.265/HEVC" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BLAZE%20HD.png" group-title="PT DOCUMENTARIOS",PT: BLAZE H.265/HEVC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/338944
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: FUEL TV
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136664
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT: TLC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TLC
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/136681
+#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="PT: DOG TV HD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: DOG TV HD
+http://maxhd.eu:8080/LnHm3Q4dgR/MiyHz2BW3f/132909
